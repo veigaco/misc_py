@@ -1,4 +1,5 @@
-# add folders input, output to this gitignore file
 ./.gitignore
-./input/
-./output/
+.DS_Store
+add everything inside the input folder
+input/**/*
+output/**/*
