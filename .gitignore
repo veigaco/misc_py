@@ -1,0 +1,4 @@
+# add folders input, output to this gitignore file
+./.gitignore
+./input/
+./output/
